@@ -1,13 +1,13 @@
 <h1><strong>SAJAG TCP PROTOCOL</strong></h1>
 <p><strong>~~~~~~~~~~~~~~~~~~~~~~~~~~~~</strong></p>
-<p>
+
 █▀ ▄▀█ ░░█ ▄▀█ █▀▀       ▀█▀ █▀▀ █▀█       █▀█ █▀█ █▀█ ▀█▀ █▀█ █▀▀ █▀█ █░░
 ▄█ █▀█ █▄█ █▀█ █▄█       ░█░ █▄▄ █▀▀       █▀▀ █▀▄ █▄█ ░█░ █▄█ █▄▄ █▄█ █▄▄
 
 <strong>Project Lead:-
 Prasenjit Ghose 2nd Year Btech Computer Science and Engineering
 Manasis Das 2nd Year Btech Electronics and Telecommunication Engineering </strong>
-</p>
+
 
 <h2>Sajag TCP Protocol is algorithm written in python using the socket module in python 3.8.2</h2>
 
@@ -18,32 +18,48 @@ Manasis Das 2nd Year Btech Electronics and Telecommunication Engineering </stron
 
 <h4>Dependencies and Installation Instructions on Linux(any distro will do, not tried on UNIX though)</h4>
 
+
+
 Installations and Running it in linux
 
 1.forking and cloning the repository
 
+
+<strong>
 first fork the repository and clone it in your sysytem
 git clone https://github.com/prasenjitghose36/SAJAG_TCP_protocol-.git
+</strong>
+
+
 
 2.Checking the server for your system
 
 
-chmod u+rwx check_server.py                        #giving permission to the file to cause changes
+<strong>chmod u+rwx check_server.py                #giving permission to the file to cause changes
 python check_server.py                             #the program runs and gives a eg -122.XX.XXX
+</strong>
 
 
 3.Setting up the server which is your device
 
 
+<strong>
 chmod u+rwx server.py                            #giving the root access to the file
 python server.py                                 #the server is set up as the program runs in the terminal
+</strong>
+
 
 
 4.Connecting your client with the server
 
 
+
+<strong>
 chmod u+rwx client.py
 python client.py
+</strong>
+
+
 
 copy your machines id i.e. server id in the client.py code
 and you can now send messages easily.
@@ -54,31 +70,49 @@ Installation guide for Windows
 
 1.forking and cloning the repository
 
+
+
+<strong>
 first fork the repository and clone it in your sysytem
 git clone https://github.com/prasenjitghose36/SAJAG_TCP_protocol-.git
+</strong>
+
 
 
 2.Checking the server for your system
 
 
+
+
+<strong>
 ./server_check.py                                #Run this in Windows PowerShell
+</strong>
+
 
 
 3.Setting up the server which is your device
 
 
+
+<strong>
 ./server.py                                     #Run this in Windows PowerShell
+</strong>
+
 
 
 4.Setting multiple clients and accessing the server
 
 
+
+<strong>
 first copy the server ip address in the client code
 ./client,py
 setup multiple clients using different windows in powershell and then send message enjoy :)
+</strong>
 
 
-<h3><strong>Open source are invited to pull request and check or review the code to make it better</strong></h3>
+
+<h3><strong>Open source developers are invited to pull request and check or review the code to make it better</strong></h3>
 
 Security Protection tips:
 Never give your devices ip address in public and be safe from DDOS attack !!!!!! :) :) :(
