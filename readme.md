@@ -1,8 +1,39 @@
-<h1><strong>SAJAG TCP PROTOCOL</strong></h1>
+<h1><strong>SAJAG_TCP_PROTOCOL</strong></h1>
 <p><strong>~~~~~~~~~~~~~~~~~~~~~~~~~~~~</strong></p>
 
-█▀ ▄▀█ ░░█ ▄▀█ █▀▀       ▀█▀ █▀▀ █▀█       █▀█ █▀█ █▀█ ▀█▀ █▀█ █▀▀ █▀█ █░░
-▄█ █▀█ █▄█ █▀█ █▄█       ░█░ █▄▄ █▀▀       █▀▀ █▀▄ █▄█ ░█░ █▄█ █▄▄ █▄█ █▄▄
+
+░██████╗░█████╗░░░░░░██╗░█████╗░░██████╗░
+██╔════╝██╔══██╗░░░░░██║██╔══██╗██╔════╝░
+╚█████╗░███████║░░░░░██║███████║██║░░██╗░
+░╚═══██╗██╔══██║██╗░░██║██╔══██║██║░░╚██╗
+██████╔╝██║░░██║╚█████╔╝██║░░██║╚██████╔╝
+╚═════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝░╚═════╝░
+
+
+
+████████╗░█████╗░██████╗░
+╚══██╔══╝██╔══██╗██╔══██╗
+░░░██║░░░██║░░╚═╝██████╔╝
+░░░██║░░░██║░░██╗██╔═══╝░
+░░░██║░░░╚█████╔╝██║░░░░░
+░░░╚═╝░░░░╚════╝░╚═╝░░░░░
+
+
+
+
+██████╗░██████╗░░█████╗░████████╗░█████╗░░█████╗░░█████╗░██╗░░░░░
+██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██║░░░░░
+██████╔╝██████╔╝██║░░██║░░░██║░░░██║░░██║██║░░╚═╝██║░░██║██║░░░░░
+██╔═══╝░██╔══██╗██║░░██║░░░██║░░░██║░░██║██║░░██╗██║░░██║██║░░░░░
+██║░░░░░██║░░██║╚█████╔╝░░░██║░░░╚█████╔╝╚█████╔╝╚█████╔╝███████╗
+╚═╝░░░░░╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░░╚════╝░░╚════╝░░╚════╝░╚══════╝
+
+
+
+
+
+
+
 
 <strong>Project Lead:-
 Prasenjit Ghose 2nd Year Btech Computer Science and Engineering
@@ -35,8 +66,8 @@ git clone https://github.com/prasenjitghose36/SAJAG_TCP_protocol-.git
 2.Checking the server for your system
 
 
-<strong>chmod u+rwx check_server.py                #giving permission to the file to cause changes
-python check_server.py                             #the program runs and gives a eg -122.XX.XXX
+<strong>chmod u+rwx check_server.py                
+python check_server.py                             
 </strong>
 
 
@@ -44,8 +75,8 @@ python check_server.py                             #the program runs and gives a
 
 
 <strong>
-chmod u+rwx server.py                            #giving the root access to the file
-python server.py                                 #the server is set up as the program runs in the terminal
+chmod u+rwx server.py                          
+python server.py                                 
 </strong>
 
 
@@ -85,7 +116,7 @@ git clone https://github.com/prasenjitghose36/SAJAG_TCP_protocol-.git
 
 
 <strong>
-./server_check.py                                #Run this in Windows PowerShell
+./server_check.py                               
 </strong>
 
 
@@ -95,7 +126,7 @@ git clone https://github.com/prasenjitghose36/SAJAG_TCP_protocol-.git
 
 
 <strong>
-./server.py                                     #Run this in Windows PowerShell
+./server.py                                     
 </strong>
 
 
