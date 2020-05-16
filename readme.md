@@ -17,9 +17,10 @@
 
 
 <strong>Project Lead:-</strong>
-<li> Prasenjit Ghose 2nd Year Btech Computer Science and Engineering <\li>
+ 
+ -> Prasenjit Ghose 2nd Year Btech Computer Science and Engineering 
 
-<li> Manasis Das 2nd Year Btech Electronics and Telecommunication Engineering <\li> 
+ -> Manasis Das 2nd Year Btech Electronics and Telecommunication Engineering 
 
 
 <h2>Sajag TCP Protocol is algorithm written in python using the socket module in python 3.8.2</h2>
