@@ -1,6 +1,10 @@
 import socket 
 import threading
 
+print("SAJAG TCP PROTOCOL\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n")
+print("█▀ ▄▀█ ░░█ ▄▀█ █▀▀       ▀█▀ █▀▀ █▀█       █▀█ █▀█ █▀█ ▀█▀ █▀█ █▀▀ █▀█ █░░\n▄█ █▀█ █▄█ █▀█ █▄█       ░█░ █▄▄ █▀▀       █▀▀ █▀▄ █▄█ ░█░ █▄█ █▄▄ █▄█ █▄▄")
+print("Project Lead:-\nPrasenjit Ghose 2nd Year Btech Computer Science and Engineering\nManasis Das 2nd Year Btech Electronics and Telecommunication Engineering\n\n\n\n")                                                                      
+
 HEADER = 64
 PORT = 5050
 SERVER = socket.gethostbyname(socket.gethostname())
@@ -36,7 +40,10 @@ def start():
         conn, addr = server.accept()
         thread = threading.Thread(target=handle_client, args=(conn, addr))
         thread.start()
-        print(f"[ACTIVE CONNECTIONS] {threading.activeCount() - 1}")
+         
+        
+        
+        print(f"[ACTIVE CONNECTIONS] {threading.activeCount()-1}")
 
 
 print("[STARTING] server is starting...")
