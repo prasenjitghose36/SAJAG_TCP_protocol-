@@ -6,14 +6,6 @@
 ▄█ █▀█ █▄█ █▀█ █▄█
 
 
-▀█▀ █▀▀ █▀█
-░█░ █▄▄ █▀▀
-
-
-█▀█ █▀█ █▀█ ▀█▀ █▀█ █▀▀ █▀█ █░░
-█▀▀ █▀▄ █▄█ ░█░ █▄█ █▄▄ █▄█ █▄▄
-
-
 <strong>Project Lead:-</strong>
  
  -> Prasenjit Ghose 2nd Year Btech Computer Science and Engineering 
