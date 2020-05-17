@@ -8,9 +8,11 @@
 
 
 
-<strong>Project Lead:-
+<p><strong>Project Lead:-
 Prasenjit Ghose 2nd Year Btech Computer Science and Engineering
-<br>Manasis Das 2nd Year Btech Electronics and Telecommunication Engineering</be></strong>
+<br>Manasis Das 2nd Year Btech Electronics and Telecommunication Engineering</br></strong></p>
+
+<p><strong>Open source developers are invited to pull request and check or review the code to make it better         </strong></p>
 
 <h2>Sajag TCP Protocol is algorithm written in python using the socket module in python 3.8.2</h2>
 
@@ -23,7 +25,7 @@ Prasenjit Ghose 2nd Year Btech Computer Science and Engineering
 
 
 
-Installations and Running it in linux
+<strong>Installations and Running it in linux</strong>
 
 1.forking and cloning the repository
 
@@ -67,16 +69,16 @@ python client.py
 copy your machines id i.e. server id in the client.py code
 and you can now send messages easily.
 
-
+<strong>
 Installation guide for Windows
-
+<strong>
 
 1.forking and cloning the repository
 
 
 
 <strong>
-first fork the repository and clone it in your sysytem
+first fork the repository and clone it in your system
 git clone https://github.com/prasenjitghose36/SAJAG_TCP_protocol-.git
 </strong>
 
