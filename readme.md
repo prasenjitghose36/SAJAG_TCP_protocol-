@@ -8,7 +8,7 @@
 
 
 
-<p><strong>Project Lead:-
+<p><strong><br>Project Lead:-</br>
 Prasenjit Ghose 2nd Year Btech Computer Science and Engineering
 <br>Manasis Das 2nd Year Btech Electronics and Telecommunication Engineering</br></strong></p>
 
@@ -31,8 +31,8 @@ Prasenjit Ghose 2nd Year Btech Computer Science and Engineering
 
 
 <strong>
-first fork the repository and clone it in your sysytem
-git clone https://github.com/prasenjitghose36/SAJAG_TCP_protocol-.git
+<br>first fork the repository and clone it in your sysytem</br>
+<br>git clone https://github.com/prasenjitghose36/SAJAG_TCP_protocol-.git</br>
 </strong>
 
 
@@ -40,8 +40,8 @@ git clone https://github.com/prasenjitghose36/SAJAG_TCP_protocol-.git
 2.Checking the server for your system
 
 
-<strong>chmod u+rwx check_server.py                
-python check_server.py                             
+<strong><br>chmod u+rwx check_server.py</br>                
+<br>python check_server.py</br>                            
 </strong>
 
 
@@ -49,8 +49,8 @@ python check_server.py
 
 
 <strong>
-chmod u+rwx server.py                          
-python server.py                                 
+<br>chmod u+rwx server.py</br>                          
+<br>python server.py</br>                                
 </strong>
 
 
@@ -60,8 +60,8 @@ python server.py
 
 
 <strong>
-chmod u+rwx client.py
-python client.py
+<br>chmod u+rwx client.py</br>
+<br>python client.py</br>
 </strong>
 
 
@@ -69,17 +69,19 @@ python client.py
 copy your machines id i.e. server id in the client.py code
 and you can now send messages easily.
 
-<strong>
+<strong><br>
 Installation guide for Windows
+</br>
 <strong>
 
 1.forking and cloning the repository
 
 
 
-<strong>
+<strong><br>
 first fork the repository and clone it in your system
 git clone https://github.com/prasenjitghose36/SAJAG_TCP_protocol-.git
+</br>
 </strong>
 
 
@@ -110,9 +112,9 @@ git clone https://github.com/prasenjitghose36/SAJAG_TCP_protocol-.git
 
 
 <strong>
-first copy the server ip address in the client code
-./client,py
-setup multiple clients using different windows in powershell and then send message enjoy :)
+<br>first copy the server ip address in the client code</br>
+<br>./client.py</br>
+<br>setup multiple clients using different windows in powershell and then send message enjoy :)</br>
 </strong>
 
 
